@@ -53,11 +53,11 @@ class TestForm(unittest.TestCase):
 
 Rezultatai su http://suninjuly.github.io/registration1.html:
 
-image here later
+![](readme_images/3-2Success.png)
 
 Rezultatai su http://suninjuly.github.io/registration2.html:
 
-image here later
+![](readme_images/3-2Fail.png)
 
 
 ## Užduotis 4
@@ -123,7 +123,7 @@ class TestForm():
 
 Rezultatai:
 
-image here later
+![](readme_images/4.png)
 
 
 ## Užduotis 5 - kolkas tokia pati kaip ir užduotis 4
